@@ -1,0 +1,11 @@
+td {
+    width: 100px;
+}
+
+body {
+    background-color: #FAF9F8;
+  }
+
+body::-webkit-scrollbar {
+    display: none;
+}
